@@ -354,7 +354,9 @@ def solveIt(inputData):
     firstLine = lines[0].split()
     nodeCount = int(firstLine[0])
     edgeCount = int(firstLine[1])
-
+    #
+    #
+    #
     edges = []
     for i in range(1, edgeCount + 1):
         line = lines[i]
